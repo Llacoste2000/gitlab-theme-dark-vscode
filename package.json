@@ -1,9 +1,9 @@
 {
-  "name": "gitlab-theme",
+  "name": "unofficial-gitlab-dark-theme",
   "displayName": "Gitlab Theme",
   "description": "Gitlab WebIDE extracted theme",
-  "version": "0.0.1",
-  "publisher": "Louis Lacoste (moi@louislacoste.fr)",
+  "version": "1.1.0",
+  "publisher": "llacoste2000",
   "repository": {
     "type": "git",
     "url": "https://github.com/Llacoste2000/gitlab-theme-dark-vscode"
@@ -20,6 +20,16 @@
         "label": "Gitlab Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Gitlab Dark-color-theme.json"
+      },
+      {
+        "label": "Gitlab Light",
+        "uiTheme": "vs",
+        "path": "./themes/Gitlab Light-color-theme.json"
+      },
+      {
+        "label": "Gitlab Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gitlab Midnight-color-theme.json"
       }
     ]
   }
