@@ -8,6 +8,12 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
+- README documentation and images added to the repository
+
+## [1.2.0] - 2024-04-10
+
+### Added
+
 - Midnight and Light themes from Gitlab Web IDE
 
 ## [1.1.0] - 2024-04-10

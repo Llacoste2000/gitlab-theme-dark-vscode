@@ -2,7 +2,7 @@
   "name": "unofficial-gitlab-dark-theme",
   "displayName": "Gitlab Theme",
   "description": "Gitlab WebIDE extracted theme",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "llacoste2000",
   "icon": "assets/images/logo.jpeg",
   "repository": {
