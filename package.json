@@ -4,7 +4,7 @@
   "description": "Gitlab WebIDE extracted theme",
   "version": "1.2.0",
   "publisher": "llacoste2000",
-  "icon": "images/logo.jpeg",
+  "icon": "assets/images/logo.jpeg",
   "repository": {
     "type": "git",
     "url": "https://github.com/Llacoste2000/gitlab-theme-dark-vscode"
