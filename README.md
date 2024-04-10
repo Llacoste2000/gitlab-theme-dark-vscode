@@ -1,16 +1,31 @@
-# gitlab-theme README
+# Gitlab WebIDE Theme for VSCode
 
-## Working with Markdown
+This theme is extracted from the [Gitlab WebIDE][1] repository. It's the official color scheme included in the WebIDE. We've packaged it as a VSCode extension to make it available on the marketplace.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Preview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Here are some previews of the theme:
 
-## For more information
+Gitlab Dark:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Gitlab Dark](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/dark.png?raw=true)
 
-**Enjoy!**
+Gitlab Midnight:
+
+![Gitlab Midnight](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/midnight.png?raw=true)
+
+Gitlab Light:
+
+![Gitlab Light](https://raw.githubusercontent.com/Llacoste2000/gitlab-theme-dark-vscode/master/assets/images/left.png)
+
+_The font used in the preview is [Monocraft](https://github.com/IdreesInc/Monocraft)_
+
+## Changelog
+
+Refer to the [CHANGELOG.md](CHANGELOG.md) file for all notable changes to this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+[1]: https://gitlab.com/gitlab-org/gitlab-web-ide/-/tree/main
