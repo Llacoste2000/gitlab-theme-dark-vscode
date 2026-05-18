@@ -1,22 +1,22 @@
-# Gitlab WebIDE Theme for VSCode
+# VSCode Theme (Inspired by GitLab WebIDE)
 
-This theme is extracted from the [Gitlab WebIDE][1] repository. It's the official color scheme included in the WebIDE. We've packaged it as a VSCode extension to make it available on the marketplace.
+This VS Code theme is inspired by the [GitLab WebIDE][1] color palette. It is an independent theme extension and is not affiliated with, endorsed by, or sponsored by GitLab.
 
 ## Preview
 
 Here are some previews of the theme:
 
-Gitlab Dark:
+WebIDE Inspired Dark:
 
-![Gitlab Dark](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/dark.png?raw=true)
+![WebIDE Inspired Dark](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/dark.png?raw=true)
 
-Gitlab Midnight:
+WebIDE Inspired Midnight:
 
-![Gitlab Midnight](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/midnight.png?raw=true)
+![WebIDE Inspired Midnight](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/midnight.png?raw=true)
 
-Gitlab Light:
+WebIDE Inspired Light:
 
-![Gitlab Light](https://raw.githubusercontent.com/Llacoste2000/gitlab-theme-dark-vscode/master/assets/images/left.png)
+![WebIDE Inspired Light](https://raw.githubusercontent.com/Llacoste2000/gitlab-theme-dark-vscode/master/assets/images/left.png)
 
 _The font used in the preview is [Monocraft](https://github.com/IdreesInc/Monocraft)_
 

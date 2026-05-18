@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.2.2] - 2026-05-18
+
+### Changed
+
+- Renamed the extension, theme labels, and marketplace icon to use neutral WebIDE-inspired branding.
+- Removed the old trademarked logo asset from the package.
+
 ## [1.2.0] - 2024-04-10
 
 ### Added
@@ -14,13 +21,13 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Midnight and Light themes from Gitlab Web IDE
+- Midnight and Light themes inspired by the WebIDE palette
 
 ## [1.1.0] - 2024-04-10
 
 ### Added
 
-- Added a new theme called "Gitlab Web IDE" which is based on the Gitlab Web IDE theme.
+- Added a new theme based on the WebIDE palette.
 
 ### Fixed
 
@@ -31,4 +38,4 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Initial release of the theme
-- Added extracted Gitlab Dark theme from the Web IDE with some minor preference changes
+- Added a dark theme inspired by the WebIDE palette with some minor preference changes
