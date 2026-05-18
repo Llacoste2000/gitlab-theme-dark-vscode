@@ -6,17 +6,17 @@ This VS Code theme is inspired by the [GitLab WebIDE][1] color palette. It is an
 
 Here are some previews of the theme:
 
-WebIDE Inspired Dark:
+GitLab WebIDE Inspired Dark:
 
-![WebIDE Inspired Dark](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/dark.png?raw=true)
+![GitLab WebIDE Inspired Dark](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/dark.png?raw=true)
 
-WebIDE Inspired Midnight:
+GitLab WebIDE Inspired Midnight:
 
-![WebIDE Inspired Midnight](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/midnight.png?raw=true)
+![GitLab WebIDE Inspired Midnight](https://github.com/Llacoste2000/gitlab-theme-dark-vscode/blob/master/assets/images/midnight.png?raw=true)
 
-WebIDE Inspired Light:
+GitLab WebIDE Inspired Light:
 
-![WebIDE Inspired Light](https://raw.githubusercontent.com/Llacoste2000/gitlab-theme-dark-vscode/master/assets/images/left.png)
+![GitLab WebIDE Inspired Light](https://raw.githubusercontent.com/Llacoste2000/gitlab-theme-dark-vscode/master/assets/images/left.png)
 
 _The font used in the preview is [Monocraft](https://github.com/IdreesInc/Monocraft)_
 

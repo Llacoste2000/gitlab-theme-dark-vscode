@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.2.3] - 2026-05-18
+
+### Changed
+
+- Renamed theme labels to make the GitLab WebIDE inspiration explicit in the VS Code theme picker.
+
 ## [1.2.2] - 2026-05-18
 
 ### Changed

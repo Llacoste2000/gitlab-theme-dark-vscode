@@ -10,7 +10,7 @@ VS Code theme extension published from `package.json`. Theme JSON files live in 
 # Architecture and Conventions
 
 - Keep marketplace metadata in `package.json`; the `icon` field should point to an original project asset under `assets/images/`.
-- Keep theme labels neutral and descriptive. Avoid making third-party brand names the primary extension or theme name.
+- Keep the extension display name descriptive rather than making a third-party brand the primary name. Theme labels intentionally use `GitLab WebIDE Inspired ...` so users can identify the palette in VS Code's theme picker.
 - The current marketplace display name is `VSCode Theme (Inspired by GitLab WebIDE)` and the package identifier is `unofficial-gitlab-dark-theme`.
 
 # Known Gotchas

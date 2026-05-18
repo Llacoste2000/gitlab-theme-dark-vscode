@@ -2,7 +2,7 @@
   "name": "unofficial-gitlab-dark-theme",
   "displayName": "VSCode Theme (Inspired by GitLab WebIDE)",
   "description": "VS Code theme inspired by the GitLab WebIDE color palette.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "publisher": "llacoste2000",
   "icon": "assets/images/icon-webide-inspired.png",
   "repository": {
@@ -18,19 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "WebIDE Inspired Dark",
+        "label": "GitLab WebIDE Inspired Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/WebIDE Inspired Dark-color-theme.json"
+        "path": "./themes/GitLab WebIDE Inspired Dark-color-theme.json"
       },
       {
-        "label": "WebIDE Inspired Light",
+        "label": "GitLab WebIDE Inspired Light",
         "uiTheme": "vs",
-        "path": "./themes/WebIDE Inspired Light-color-theme.json"
+        "path": "./themes/GitLab WebIDE Inspired Light-color-theme.json"
       },
       {
-        "label": "WebIDE Inspired Midnight",
+        "label": "GitLab WebIDE Inspired Midnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/WebIDE Inspired Midnight-color-theme.json"
+        "path": "./themes/GitLab WebIDE Inspired Midnight-color-theme.json"
       }
     ]
   }
